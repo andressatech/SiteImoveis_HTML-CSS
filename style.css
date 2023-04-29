@@ -1,0 +1,52 @@
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 54px;
+    color: #303030;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size: 50px;
+    color: white; 
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+.carousel-caption p{
+    color: rgb(255, 70, 70);
+    font-size: 30px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.valorimovel, .local{
+    color: #dc3545;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.caracteristicas{
+    font-weight: bold;
+}
+
+.nav-link{
+    color:white;
+}
+
+#nossotime{
+    color:white;
+}
+
+footer{
+    color: white;
+    font-weight: bold;
+}
