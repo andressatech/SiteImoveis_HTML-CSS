@@ -50,3 +50,16 @@ footer{
     color: white;
     font-weight: bold;
 }
+
+.titulo-imoveis{
+    color: rgb(255, 70, 70);
+    text-shadow:  0.1em 0.1em 0.1em rgb(255, 169, 169);
+    text-align: center;
+}
+
+.caracteristicas-imovel{
+    background-color: #dc3545;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
