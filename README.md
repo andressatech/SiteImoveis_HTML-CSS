@@ -1,5 +1,5 @@
-# projeto-SiteImoveis-HTML-CSS
-Loja Virtual HTML, CSS e Bootstrap - Descomplica & Instituto Nu
+# projeto-SiteImoveis-HTML&CSS
+Loja Virtual utilizando HTML, CSS e Bootstrap 
 
 PROPOSTA DO PROJETO <br> 
 Criar um site como uma vitrine de uma loja virtual que deve ser composto por 6 seções: A barra de navegação, um carousel, quem somos, nosso time, nossos produtos e um rodapé.
